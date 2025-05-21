@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-05-07 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I finished my master thesis presentation! :sparkles: :smile: My thesis committee members are Professor Wei Biao Wu and Professor Mei Wang. Thank you so much for your guidance and help!
