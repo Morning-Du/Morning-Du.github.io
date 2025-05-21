@@ -41,4 +41,5 @@ Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech Un
 
 I will be a Ph.D. student in Machine Learning at the Georgia Tech School of [IsyE](https://www.isye.gatech.edu/) starting in Fall 2025!
 
+**Contact:** xinchendu [at] uchicago [dot] edu
 
