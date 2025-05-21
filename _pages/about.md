@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Student in <a href='https://stat.uchicago.edu/'>the Department of Statistics</a> at The University of Chicago
+subtitle: M.S. Student in the <a href='https://stat.uchicago.edu/'>Department of Statistics</a> at The University of Chicago
 
 profile:
   align: right
