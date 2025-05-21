@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Student in <a href='https://stat.uchicago.edu/'>the Department of Statistics</a> at <a href='https://www.uchicago.edu/en'>The University of Chicago</a>
+subtitle: M.S. Student in <a href='https://stat.uchicago.edu/'>the Department of Statistics</a> at The University of Chicago
 
 profile:
   align: right
@@ -34,13 +34,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Welcome to my homepage! I am currently a M.S. student in statistics department at the University of Chicago. I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). My research interests include:
 
-- **Stochastic optimization**, 
-- **Online statistical inference**, 
-- **Reinforcement learning**, 
-- **Artificial Intelligence**.
+- **Stochastic optimization**
+- **Online statistical inference**
+- **Reinforcement learning**
+- **Artificial Intelligence**
 
 
-Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, where I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on FPGA acceleration projects.
+Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, where I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) acceleration projects.
 
 
 I will be a Ph.D. student in Machine Learning at the Georgia Tech School of [IsyE](https://www.isye.gatech.edu/) starting in Fall 2025!
