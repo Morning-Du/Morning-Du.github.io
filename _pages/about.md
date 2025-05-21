@@ -32,10 +32,15 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Welcome to my homepage! I am currently a M.S. student in statistics department at the University of Chicago. I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). My research interests lie in **Stochastic optimization**, **Online statistical inference**, **Reinforcement learning**, and **Artificial Intelligence**.
+Welcome to my homepage! I am currently a M.S. student in statistics department at the University of Chicago. I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). My research interests include:
+
+- **Stochastic optimization**, 
+- **Online statistical inference**, 
+- **Reinforcement learning**, 
+- **Artificial Intelligence**.
 
 
-Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, and I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on some computational neuroscience projects.
+Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, where I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on FPGA acceleration projects.
 
 
 I will be a Ph.D. student in Machine Learning at the Georgia Tech School of [IsyE](https://www.isye.gatech.edu/) starting in Fall 2025!
