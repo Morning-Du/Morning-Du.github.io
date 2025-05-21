@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS Student,
-          \n <a href='https://stat.uchicago.edu/'>Department of Statistics</a>, 
-          \n <a href='https://www.uchicago.edu/en'>The University of Chicago</a>
+subtitle: M.S. Student in <a href='https://stat.uchicago.edu/'>the Department of Statistics</a> at <a href='https://www.uchicago.edu/en'>The University of Chicago</a>
 
 profile:
   align: right
@@ -29,8 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+Welcome to my homepage! I am currently a M.S. student in statistics department at the University of Chicago. I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). My research interests lie in **Stochastic optimization**, **Online statistical inference**, **Reinforcement learning**, and **Artificial Intelligence**.
+
+
+Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, and I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on some computational neuroscience projects.
+
+
+I will be a Ph.D. student in Machine Learning at the Georgia Tech School of [IsyE](https://www.isye.gatech.edu/) starting in Fall 2025!
+
+
