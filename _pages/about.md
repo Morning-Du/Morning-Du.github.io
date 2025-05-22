@@ -12,7 +12,7 @@ profile:
     <p>5747 South Ellis Avenue</p>
     <p>Chicago, IL, 60637</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
