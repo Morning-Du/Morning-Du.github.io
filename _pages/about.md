@@ -43,7 +43,7 @@ Welcome to my homepage! I am currently a M.S. student in statistics department a
 Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, where I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) acceleration projects.
 
 
-I will be a Ph.D. student in Machine Learning at the Georgia Tech School of [IsyE](https://www.isye.gatech.edu/) starting in Fall 2025!
+I will be a Machine Learning Ph.D. student in the [H. Milton Stewart School of Industrial and Systems Engineering (ISyE)](https://www.isye.gatech.edu/) at the Georgia Tech starting in Fall 2025!
 
 **Contact:** xinchendu [at] uchicago [dot] edu
 
