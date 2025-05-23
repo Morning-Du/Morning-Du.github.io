@@ -2,12 +2,15 @@
 layout: page
 title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+description: 
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+## 1. Online Statistical Inference of Constrained Stochastic Optimization via Random Scaling
+Xinchen Du, Wanrong Zhu, Wei Biao Wu, and Sen Na
 
 <!-- pages/projects.md -->
 <div class="projects">
