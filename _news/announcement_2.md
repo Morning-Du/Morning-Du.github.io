@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I start visiting UC Berkeley and [ICSI](https://www.icsi.berkeley.edu/) as a four-months student researcher, where I worked in Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/)'s research group! :smile:
+I start visiting [UC Berkeley](https://www.berkeley.edu/) and [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/) as a four-months student researcher, where I worked in Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/)'s research group! :smile:
 
 
 
