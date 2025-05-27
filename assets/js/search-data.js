@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/Teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -403,22 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-is-submitted-sparkles-thanks-a-lot-to-my-great-supervisors",
           title: 'Our paper “Online Statistical Inference of Constrained Stochastic Optimization via Random Scaling” is...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
