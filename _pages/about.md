@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: M.S. Student in the <a href='https://stat.uchicago.edu/'>Department of Statistics</a> at The University of Chicago
 
