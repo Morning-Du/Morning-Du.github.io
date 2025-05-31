@@ -400,8 +400,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-finished-my-master-thesis-presentation-smile-please-visit-the-link-for-detailed-information-my-thesis-committee-members-are-professor-wei-biao-wu-and-professor-mei-wang-thank-you-so-much-for-your-guidance-and-help",
           title: 'I finished my master thesis presentation! :smile: Please visit the link for detailed...',
           description: "",
-          section: "News",},{id: "news-our-paper-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-is-submitted-sparkles-thanks-a-lot-to-my-great-supervisors",
-          title: 'Our paper “Online Statistical Inference of Constrained Stochastic Optimization via Random Scaling” is...',
+          section: "News",},{id: "news-check-out-our-new-paper-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-we-propose-an-efficient-statistical-inference-framework-for-constrained-stochastic-nonlinear-optimziation-problems-sparkles",
+          title: 'Check out our new paper Online Statistical Inference of Constrained Stochastic Optimization via...',
           description: "",
           section: "News",},{
         id: 'social-email',
