@@ -17,7 +17,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 - STAT 32950 Multivariate Statistical Analysis (Instructor: [Mei Wang](https://www.stat.uchicago.edu/~meiwang/))                        *Spring 2025* -->
 
 
-### Grader, University of Chicago
+### Grader, the University of Chicago
 - <font size="3">STAT 24300 Numerical Linear Algebra  <span style="float:right;">Autumn 2024</span> </font>
   
   Instructor: <a href="https://sites.google.com/view/anjali-nair/home" target="_blank">Anjali Nair</a>
