@@ -11,7 +11,7 @@ horizontal: false
 
 #### 1. Online Statistical Inference of Constrained Stochastic Optimization via Random Scaling
 
-**Xinchen Du**, Wanrong Zhu, Wei Biao Wu, and Sen Na  
+**Xinchen Du**, [Wanrong Zhu](https://zhuwr0423.github.io/), [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), and [Sen Na](https://senna1128.github.io/)  
 
 *Submitted*, 2025, [[arXiv](https://www.arxiv.org/abs/2505.18327)]
 
