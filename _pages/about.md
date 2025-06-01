@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: M.S. Student in the <a href='https://stat.uchicago.edu/'>Department of Statistics</a> at The University of Chicago
+subtitle: M.S. Student in the <a href='https://stat.uchicago.edu/'>Department of Statistics</a> at <a href='https://www.uchicago.edu/'>The University of Chicago</a>
 
 profile:
   align: right
@@ -32,7 +32,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Welcome to my homepage! I am currently a M.S. student in statistics department at The University of Chicago. I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). My research interests include:
+Welcome to my homepage! I am currently a M.S. student in the [statistics department](https://stat.uchicago.edu/) at [The University of Chicago](https://www.uchicago.edu/). I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). My research interests include:
 
 - **Stochastic optimization**
 - **Online statistical inference**
