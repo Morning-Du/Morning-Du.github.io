@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: **Xinchen Du**  杜新晨 # the website title (if blank, full name will be used instead)
-first_name: Xinchen
+title: blank # the website title (if blank, full name will be used instead)
+first_name: **Xinchen Du**
 middle_name: 
-last_name: Du
+last_name: 杜新晨
 email: xinchendu@uchicago.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Xinchen Du's personal homepage

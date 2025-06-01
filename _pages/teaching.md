@@ -18,13 +18,13 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 
 ### Grader, University of Chicago
-- <font size="3">STAT 24300 Numerical Linear Algebra (Instructor: <a href="https://sites.google.com/view/anjali-nair/home" target="_blank">Anjali Nair</a>) <span style="float:right;">Autumn 2024</span> </font>
+- <font size="3">STAT 24300 Numerical Linear Algebra  <span style="float:right;">Autumn 2024</span> </font>
   
   Instructor: <a href="https://sites.google.com/view/anjali-nair/home" target="_blank">Anjali Nair</a>
   
 
-- <font size="3"> STAT 32950 Multivariate Statistical Analysis (Instructor: <a href="https://www.stat.uchicago.edu/~meiwang/" target="_blank"> Mei Wang</a>) <span style="float:right;">Spring 2025</span> </font>
+- <font size="3"> STAT 32950 Multivariate Statistical Analysis  <span style="float:right;">Spring 2025</span> </font>
   
-  Instructor: <a href="https://sites.google.com/view/anjali-nair/home" target="_blank">Anjali Nair</a>
+  Instructor: <a href="https://www.stat.uchicago.edu/~meiwang/" target="_blank">Mei Wang</a>
   
 
