@@ -13,6 +13,9 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 #### Teaching Assistant, the University of Chicago
 
-- STAT 24300 Numerical Linear Algebra (Instructor: [Anjali  Nair](https://sites.google.com/view/anjali-nair/home))                      *Autumn 2024*
-- STAT 32950 Multivariate Statistical Analysis (Instructor: [Mei Wang](https://www.stat.uchicago.edu/~meiwang/))                        *Spring 2025*
-
+<!-- - STAT 24300 Numerical Linear Algebra (Instructor: [Anjali  Nair](https://sites.google.com/view/anjali-nair/home))                      *Autumn 2024*
+- STAT 32950 Multivariate Statistical Analysis (Instructor: [Mei Wang](https://www.stat.uchicago.edu/~meiwang/))                        *Spring 2025* -->
+| Course                                                    | Quarter(s)                       |
+|-----------------------------------------------------------|----------------------------------:|
+| STAT 24300 Numerical Linear Algebra (Instructor: [Anjali  Nair](https://sites.google.com/view/anjali-nair/home))        | *Autumn 2024*                   |
+| STAT 32950 Multivariate Statistical Analysis (Instructor: [Mei Wang](https://www.stat.uchicago.edu/~meiwang/))                                 | *Spring 2025*        |
