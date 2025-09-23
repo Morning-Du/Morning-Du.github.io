@@ -21,3 +21,18 @@ horizontal: false
 
 - Compared to existing online inference procedures, our approach offers two key advantages: (i) it enables the construction of *asymptotically valid* and *statistically efficient* confidence intervals, while existing procedures based on the last iterates are less efficient and rely on a plug-in covariance estimator that is *inconsistent*; and (ii) it is *matrix-free*, i.e., the computation involves only primal-dual iterates themselves without any matrix inversions, making its computational cost match that of advanced first-order methods for unconstrained problems. We validate our theoretical findings through numerical experiments on nonlinearly constrained regression problems and demonstrate the superior performance of random scaling over existing inference procedures.
 
+
+
+
+
+#### 2. Online Statistical Inference for Proximal Stochastic Gradient Descent under Markovian Sampling
+
+**Xinchen Du**, and [Sen Na](https://senna1128.github.io/) 
+
+Draft available upon request.
+
+- Nonsmooth stochastic optimization has emerged as a fundamental framework for modeling complex machine learning phenomena, particularly those involving constraints. Proximal stochastic gradient descent (proximal SGD) serves as the predominant algorithm to solve it. While existing research focuses on the *i.i.d.* data setting, nonsmooth optimization under *Markovian sampling* remains largely unexplored. 
+ 
+
+- This work proposes an online statistical inference procedure for nonsmooth optimization under *Markovian sampling* using proximal SGD. We establish asymptotic normality of *averaged* proximal SGD iterates and introduce a random scaling inference method that constructs parameter-free pivotal statistics through appropriate normalization. Our approach enables *asymptotically valid* confidence intervals, and the entire inference procedure is *fully online*.
+
