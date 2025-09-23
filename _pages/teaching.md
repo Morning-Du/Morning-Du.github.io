@@ -26,5 +26,12 @@ Organize your courses by years, topics, or universities, however you like! -->
 - <font size="3"> STAT 32950 Multivariate Statistical Analysis  <span style="float:right;">Spring 2025</span> </font>
   
   Instructor: <a href="https://www.stat.uchicago.edu/~meiwang/" target="_blank">Mei Wang</a>
+
+
+
+### Tutor, Georgia Tech
+
+- <font size="3">ISYE 3044 Simulation Analysis and Design  <span style="float:right;">Autumn 2025</span> </font>
   
+  Instructor: <a href="https://www.enluzhou.gatech.edu/" target="_blank">Enlu Zhou</a>
 

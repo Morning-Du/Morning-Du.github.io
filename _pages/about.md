@@ -2,15 +2,16 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: M.S. Student in the <a href='https://stat.uchicago.edu/'>Department of Statistics</a> at <a href='https://www.uchicago.edu/'>The University of Chicago</a>
+subtitle: Machine Learning Ph.D. Student in the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering (ISyE)</a> at <a href='https://www.gatech.edu/'>Georgia Tech</a>
+
 
 profile:
   align: right
   image: xinchendu.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5747 South Ellis Avenue</p>
-    <p>Chicago, IL, 60637</p>
+    <p>765 Ferst Dr NW, Room 340</p>
+    <p>Atlanta, GA, 30318</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,18 +33,20 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Welcome to my homepage! I am currently a M.S. student in the statistics department at The University of Chicago. I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). My research interests include:
+Welcome to my homepage! I am currently a Machine Learning Ph.D. student in the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering (ISyE)</a> at <a href='https://www.gatech.edu/'>Georgia Tech</a>. Prior to joining ISyE, I was a M.S. student in the <a href='https://stat.uchicago.edu/'>Department of Statistics</a> at <a href='https://www.uchicago.edu/'>The University of Chicago</a>, where I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). 
+
+
+I am broadly interested in the mathematical foundations of data science. My research interests include:
 
 - **Stochastic optimization**
 - **Online statistical inference**
+- **Generative AI**
 - **Reinforcement learning**
-- **Artificial Intelligence**
 
 
 Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, where I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) acceleration projects.
 
 
-I will be a Machine Learning Ph.D. student in the [H. Milton Stewart School of Industrial and Systems Engineering (ISyE)](https://www.isye.gatech.edu/) at the [Georgia Tech](https://www.gatech.edu/) starting in Fall 2025! If you are interested in collaborating with me, feel free to contact me through email!
 
-**Contact:** xinchendu [at] uchicago [dot] edu
+**Contact:** xinchendu [at] gatech [dot] edu
 
