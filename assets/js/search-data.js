@@ -403,6 +403,9 @@ ninja.data = [{
           section: "News",},{id: "news-check-out-our-new-paper-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-we-propose-an-efficient-statistical-inference-framework-for-constrained-stochastic-nonlinear-optimziation-problems-sparkles",
           title: 'Check out our new paper Online Statistical Inference of Constrained Stochastic Optimization via...',
           description: "",
+          section: "News",},{id: "news-our-two-papers-has-been-accepted-by-neurips-2025-workshop-sparkles",
+          title: 'Our two papers has been accepted by NeurIPS 2025 Workshop!  :sparkles:',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
