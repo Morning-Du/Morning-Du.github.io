@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: Machine Learning Ph.D. Student in the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering (ISyE)</a> at <a href='https://www.gatech.edu/'>Georgia Tech</a>
+subtitle: Machine Learning Ph.D. Student in the School of <a href='https://www.isye.gatech.edu/'>ISyE</a> at <a href='https://www.gatech.edu/'>Georgia Tech</a>
 
 
 profile:
