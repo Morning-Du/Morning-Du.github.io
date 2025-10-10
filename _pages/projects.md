@@ -29,7 +29,7 @@ horizontal: false
 
 **Xinchen Du**, and [Sen Na](https://senna1128.github.io/) 
 
-Draft available upon request.
+Draft available upon request.  **A short version has been accepted in [NeurIPS 2025 COML Workshop](https://constrained-opt-ml.github.io/)**
 
 - Nonsmooth stochastic optimization has emerged as a fundamental framework for modeling complex machine learning phenomena, particularly those involving constraints. Proximal stochastic gradient descent (proximal SGD) serves as the predominant algorithm to solve it. While existing research focuses on the *i.i.d.* data setting, nonsmooth optimization under *Markovian sampling* remains largely unexplored. 
  
