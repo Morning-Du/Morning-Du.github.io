@@ -406,7 +406,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-begin-my-ph-d-journey-at-georgia-tech-smile",
           title: 'I begin my Ph.D. journey at Georgia Tech! :smile:',
           description: "",
-          section: "News",},{id: "news-our-poster-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-has-been-has-been-accepted-in-neurips-2025-ml-or-workshop-and-our-paper-online-statistical-inference-for-proximal-stochastic-gradient-descent-under-markovian-sampling-has-been-accepted-in-neurips-2025-workshop-on-constrained-optimization-for-machine-learning-sparkles",
+          section: "News",},{id: "news-our-poster-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-has-been-accepted-in-neurips-2025-ml-or-workshop-and-our-paper-online-statistical-inference-for-proximal-stochastic-gradient-descent-under-markovian-sampling-has-been-accepted-in-neurips-2025-workshop-on-constrained-optimization-for-machine-learning-sparkles",
           title: 'Our poster “Online Statistical Inference of Constrained Stochastic Optimization via Random Scaling” has...',
           description: "",
           section: "News",},{id: "news-i-gave-a-poster-for-our-paper-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-in-georgia-statistics-day-and-won-the-student-poster-award",
