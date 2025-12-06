@@ -409,6 +409,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-poster-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-has-been-has-been-accepted-in-neurips-2025-ml-or-workshop-and-our-paper-online-statistical-inference-for-proximal-stochastic-gradient-descent-under-markovian-sampling-has-been-accepted-in-neurips-2025-workshop-on-constrained-optimization-for-machine-learning-sparkles",
           title: 'Our poster “Online Statistical Inference of Constrained Stochastic Optimization via Random Scaling” has...',
           description: "",
+          section: "News",},{id: "news-i-gave-a-poster-for-our-paper-online-statistical-inference-of-constrained-stochastic-optimization-via-random-scaling-in-georgia-statistics-day-and-won-the-student-poster-award",
+          title: 'I gave a poster for our paper Online Statistical Inference of Constrained Stochastic...',
+          description: "",
+          section: "News",},{id: "news-i-was-invited-to-give-a-talk-for-our-recent-works-in-informs-optimization-society-conference-ios-2026",
+          title: 'I was invited to give a talk for our recent works in INFORMS...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
