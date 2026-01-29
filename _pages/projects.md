@@ -36,3 +36,19 @@ Draft available upon request.  **A short version has been accepted in [NeurIPS 2
 
 - This work proposes an online statistical inference procedure for nonsmooth optimization under *Markovian sampling* using proximal SGD. We establish asymptotic normality of *averaged* proximal SGD iterates and introduce a random scaling inference method that constructs parameter-free pivotal statistics through appropriate normalization. Our approach enables *asymptotically valid* confidence intervals, and the entire inference procedure is *fully online*.
 
+
+
+
+#### 3. Inference of Online Newton Methods with Nesterov’s Accelerated Sketching
+
+Haoxuan Wang, **Xinchen Du**, and [Sen Na](https://senna1128.github.io/) 
+
+Draft available upon request.  *Submitted*
+
+- Reliable decision-making with streaming data requires principled uncertainty quantification of online methods. While first-order methods enable efficient iterate updates, their inference procedures still require updating proper (covariance) matrices, incurring $O(d^2)$ time and memory complexity, and are sensitive to ill-conditioning and noise heterogeneity of the problem. This costly inference task offers an opportunity for more robust second-order methods, which are, however, bottlenecked by solving Newton systems with $O(d^3)$ complexity. 
+
+- In this paper, we address this gap by studying an online Newton method with Hessian averaging, where the Newton direction at each step is approximately computed using a \textit{sketch-and-project solver with Nesterov's acceleration}, matching $O(d^2)$ complexity of first-order methods. For the proposed method, we quantify its uncertainty arising from both random data and randomized computation. 
+
+- Under standard smoothness and moment conditions, we establish global almost-sure convergence, prove asymptotic normality of the last iterate with a limiting covariance characterized by a Lyapunov equation, and develop a fully online covariance estimator with non-asymptotic convergence guarantees. 
+We also connect the resulting uncertainty quantification to that of exact and sketched Newton methods without Nesterov's acceleration. Extensive experiments on regression models demonstrate the superiority of the proposed method for online inference.
+

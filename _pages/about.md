@@ -44,7 +44,7 @@ I am broadly interested in the mathematical foundations of data science. My rese
 - **Reinforcement learning**
 
 
-Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, where I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) acceleration projects.
+<!-- Prior to Uchicago, I obtained my B.S. degree in Mathematics from ShanghaiTech University in 2023, under the supervision of Profesor [Shixiao Jiang](https://willingjiang.github.io/) and Professor [Chengjian Yao](https://scholar.google.com/citations?hl=en&user=lLmtBmwAAAAJ&view_op=list_works). I also visited Yale University as an exchange student in 2022, where I am very fortunate to work with professor [John Lafferty](https://www.lafferty-lab.org/) and Professor [Rajit Manohar](https://csl.yale.edu/~rajit/) on [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) acceleration projects. -->
 
 
 
