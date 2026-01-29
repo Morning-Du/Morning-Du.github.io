@@ -38,5 +38,5 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 - <font size="3">ISYE 3044 Simulation Analysis and Design  <span style="float:right;">Spring 2026</span> </font>
   
-  Instructor: <a href="https://www.isye.gatech.edu/users/douglas-bodner" target="_blank">Jon Lowe</a>
+  Instructor: <a href="https://www.isye.gatech.edu/users/jon-lowe" target="_blank">Jon Lowe</a>
 
