@@ -13,7 +13,7 @@ horizontal: false
 
 **Xinchen Du**, [Wanrong Zhu](https://zhuwr0423.github.io/), [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), and [Sen Na](https://senna1128.github.io/)  
 
-*Submitted*, 2025, [[arXiv](https://www.arxiv.org/abs/2505.18327)].  **A short version has been accepted in [NeurIPS 2025 ML×OR Workshop](https://mlxor-workshop.github.io/)**
+To appear, Journal of Machine Learning Research, 2026, [[arXiv version](https://www.arxiv.org/abs/2505.18327)].  **A short version has been accepted in [NeurIPS 2025 ML×OR Workshop](https://mlxor-workshop.github.io/)**
 
 - Constrained stochastic nonlinear optimization problems have attracted significant attention for their ability to model complex real-world scenarios in physics, economics, and biology. As datasets continue to grow, online inference methods have become crucial for enabling real-time decision-making without the need to store historical data. In this work, we develop an online inference procedure for constrained stochastic optimization by leveraging a method called Adaptive Inexact Stochastic Sequential Quadratic Programming (AI-SSQP).
 
