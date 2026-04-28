@@ -43,7 +43,7 @@ Draft available upon request.  **A short version has been accepted in [NeurIPS 2
 
 Haoxuan Wang, **Xinchen Du**, and [Sen Na](https://senna1128.github.io/) 
 
-Draft available upon request.  *Under Review*
+  *Under Review, [[arXiv version](https://arxiv.org/abs/2604.23436)].*
 
 - Reliable decision-making with streaming data requires principled uncertainty quantification of online methods. While first-order methods enable efficient iterate updates, their inference procedures still require updating proper (covariance) matrices, incurring $O(d^2)$ time and memory complexity, and are sensitive to ill-conditioning and noise heterogeneity of the problem. This costly inference task offers an opportunity for more robust second-order methods, which are, however, bottlenecked by solving Newton systems with $O(d^3)$ complexity. 
 
