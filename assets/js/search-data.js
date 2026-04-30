@@ -415,6 +415,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-invited-to-give-a-talk-for-our-recent-works-in-informs-optimization-society-conference-ios-2026",
           title: 'I was invited to give a talk for our recent works in INFORMS...',
           description: "",
+          section: "News",},{id: "news-our-new-paper-inference-of-online-newton-methods-with-nesterov-s-accelerated-sketching-has-been-accepeted-to-forty-third-international-conference-on-machine-learning-icml-2026-sparkles",
+          title: 'Our new paper Inference of Online Newton Methods with Nesterov’s Accelerated Sketching has...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
