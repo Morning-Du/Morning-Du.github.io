@@ -7,7 +7,7 @@ subtitle: Machine Learning Ph.D. Student in the School of <a href='https://www.i
 
 profile:
   align: right
-  image: xinchendu.JPG
+  image: xinchendu_4.17.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>765 Ferst Dr NW, Room 340</p>
