@@ -52,3 +52,17 @@ Haoxuan Wang, **Xinchen Du**, and [Sen Na](https://senna1128.github.io/)
 - Under standard smoothness and moment conditions, we establish global almost-sure convergence, prove asymptotic normality of the last iterate with a limiting covariance characterized by a Lyapunov equation, and develop a fully online covariance estimator with non-asymptotic convergence guarantees. 
 We also connect the resulting uncertainty quantification to that of exact and sketched Newton methods without Nesterov's acceleration. Extensive experiments on regression models demonstrate the superiority of the proposed method for online inference.
 
+
+
+#### 4. Inference for Newton Methods with Accelerated Sketch-and-Project via Random Scaling
+
+**Xinchen Du**, [Elizaveta Rebrova](https://erebrova.github.io/), [Michal Derezinski](https://web.eecs.umich.edu/~derezin/), Sen Na
+
+*Under Review*.  Draft available upon request.
+
+
+- We study an online sketched Newton method that approximates the Newton direction at each step via a state-of-the-art sketching solver, called the *generalized accelerated sketch-and-project solver* (GAS), thereby mitigating the computational bottleneck of classical second-order methods. The GAS solver improves upon vanilla, unaccelerated sketch-and-project solvers by achieving accelerated convergence through Nesterov momentum updates, and accommodates a flexible projection metric whose proper choice further reduces computational cost. 
+
+- Building on this design, we establish asymptotic normality of the *averaged* sketched Newton iterates and characterize their limiting covariance matrix. The resulting covariance recovers that of the unaccelerated sketched Newton method under a specific choice of acceleration parameters, converges more rapidly (in the number of sketching steps) to the minimax-optimal covariance in general, and is smaller than that of the last iterate produced by the accelerated method.
+
+- Finally, we strengthen these results by establishing a *functional central limit theorem* for the Newton iterates, which allows us to bypass explicit covariance estimation and develop an online inference procedure based on random scaling. Specifically, we construct a pivotal test statistic by appropriately rescaling the averaged iterates, so that its limiting distribution is free of any unknown parameters, enabling asymptotically valid online inference. Numerical experiments demonstrate superior performance of the proposed inference procedure.
