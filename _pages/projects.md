@@ -53,3 +53,10 @@ Haoxuan Wang, **Xinchen Du**, and [Sen Na](https://senna1128.github.io/)
 We also connect the resulting uncertainty quantification to that of exact and sketched Newton methods without Nesterov's acceleration. Extensive experiments on regression models demonstrate the superiority of the proposed method for online inference.
 
 
+
+
+#### 4. Inference for Newton Methods with Accelerated Sketch-and-Project via Random Scaling
+
+**Xinchen Du**, [Elizaveta Rebrova](https://erebrova.github.io/), [Michal Derezinski](https://web.eecs.umich.edu/~derezin/), Sen Na
+
+*Under Review*.  Draft available upon request.
