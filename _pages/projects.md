@@ -60,3 +60,9 @@ We also connect the resulting uncertainty quantification to that of exact and sk
 **Xinchen Du**, [Elizaveta Rebrova](https://erebrova.github.io/), [Michal Derezinski](https://web.eecs.umich.edu/~derezin/), and Sen Na
 
 *Under Review*.  Draft available upon request.
+
+
+
+#### 5. Segment-Aware Credit Assignment for Agentic RL in LLM post training
+
+**Xinchen Du**, Eric Xu, [Alborz Geramifard](https://sites.google.com/view/alborz-geramifard/home)
