@@ -33,7 +33,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Welcome to my homepage! I am currently a Machine Learning Ph.D. student in the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering (ISyE)</a> at <a href='https://www.gatech.edu/'>Georgia Tech</a>. Prior to joining ISyE, I was an M.S. student in the <a href='https://stat.uchicago.edu/'>Department of Statistics</a> at <a href='https://www.uchicago.edu/'>The University of Chicago</a>, where I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/), Professor [Sen Na](https://senna1128.github.io/), and Professor [Wanrong Zhu](https://zhuwr0423.github.io/). 
+Welcome to my homepage! I am currently a Machine Learning Ph.D. student in the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering (ISyE)</a> at <a href='https://www.gatech.edu/'>Georgia Tech</a>, working with Professor [Sen Na](https://senna1128.github.io/). Prior to joining ISyE, I was a M.S. student in the <a href='https://stat.uchicago.edu/'>Department of Statistics</a> at <a href='https://www.uchicago.edu/'>The University of Chicago</a>, where I am very fortunate to be advised by Professor [Wei Biao Wu](https://stat.uchicago.edu/people/profile/wei-biao-wu/). 
 
 
 I am broadly interested in the mathematical foundations of data science. My research interests include:
