@@ -418,6 +418,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-new-paper-inference-of-online-newton-methods-with-nesterov-s-accelerated-sketching-has-been-accepted-to-forty-third-international-conference-on-machine-learning-icml-2026-sparkles",
           title: 'Our new paper Inference of Online Newton Methods with Nesterov’s Accelerated Sketching has...',
           description: "",
+          section: "News",},{id: "news-i-started-my-al-ml-research-internship-in-linkedin-coreai-team-sparkles",
+          title: 'I started my AL/ML research internship in LinkedIn CoreAI team! :sparkles:',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
